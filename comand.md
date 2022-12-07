@@ -2,7 +2,7 @@
 kubectl get nodes 
 ```
 
-kubectl get pods
+**** kubectl get pods
 
 kubectl svc
 
