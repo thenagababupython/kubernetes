@@ -5,9 +5,9 @@ kubectl get nodes
 ****
 kubectl get pods
 ****
-
+````
 kubectl svc
-
+````
 kubectl rs
 
 kubectl get deployments 
